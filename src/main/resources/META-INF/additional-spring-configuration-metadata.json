@@ -3,21 +3,21 @@
     {
       "name": "ddns.secret_id",
       "type": "java.lang.String",
-      "description": "Description for ddns.secret_id."
+      "description": "腾讯云API提供的secretId."
     },
     {
       "name": "ddns.secret_key",
       "type": "java.lang.String",
-      "description": "Description for ddns.secret_key."
+      "description": "腾讯云API提供的secretKey."
     },
     {
       "name": "ddns.domain",
       "type": "java.lang.String",
-      "description": "Description for ddns.domain."
+      "description": "需要刷新的域名."
     },
     {
       "name": "ddns.record_id",
-      "type": "java.lang.String",
-      "description": "Description for ddns.record_id."
+      "type": "java.lang.Long",
+      "description": "需要刷新的域名解析记录ID."
     }
   ] }
