@@ -1,0 +1,5 @@
+ddns:
+  secret_id: your_secret_id
+  secret_key: your_secret_key
+  domain: your_domain
+  record_id: your_record_id
